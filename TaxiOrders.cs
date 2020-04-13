@@ -3,7 +3,7 @@ using _OperatorsSpace;
 
 namespace _TaxiOrdersSpace
 {
-    public class TaxiOrders                             // производный класс ЗаказыТакси 
+    public class TaxiOrders                             // класс ЗаказыТакси 
     {
         public int Id_Order {get;set;}                  // идентификатор заказа
         public int ClientPhoneNumber {get; set;}        // номер тел клиента
