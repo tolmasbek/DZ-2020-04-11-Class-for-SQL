@@ -1,0 +1,13 @@
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\bin\Debug\netcoreapp3.1\ContactCenterTaxi.exe
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\bin\Debug\netcoreapp3.1\ContactCenterTaxi.deps.json
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\bin\Debug\netcoreapp3.1\ContactCenterTaxi.runtimeconfig.json
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\bin\Debug\netcoreapp3.1\ContactCenterTaxi.runtimeconfig.dev.json
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\bin\Debug\netcoreapp3.1\ContactCenterTaxi.dll
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\bin\Debug\netcoreapp3.1\ContactCenterTaxi.pdb
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\obj\Debug\netcoreapp3.1\ContactCenterTaxi.csprojAssemblyReference.cache
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\obj\Debug\netcoreapp3.1\ContactCenterTaxi.csproj.CoreCompileInputs.cache
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\obj\Debug\netcoreapp3.1\ContactCenterTaxi.AssemblyInfoInputs.cache
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\obj\Debug\netcoreapp3.1\ContactCenterTaxi.AssemblyInfo.cs
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\obj\Debug\netcoreapp3.1\ContactCenterTaxi.dll
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\obj\Debug\netcoreapp3.1\ContactCenterTaxi.pdb
+C:\Users\Tolmasbek\Desktop\C#C#C#C#\11042020\obj\Debug\netcoreapp3.1\ContactCenterTaxi.genruntimeconfig.cache
